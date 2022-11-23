@@ -1,0 +1,42 @@
+body {
+  background-color: darkgoldenrod;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: darkred;
+}
+h2 {
+  color: red;
+}
+p {
+  color: purple;
+  font-size: 20px;
+}
+img {
+  width: 400px;
+  height: 300px;
+  border: 2px dashed;
+}
+.drugi_naslov {
+  text-align: center;
+}
+.para {
+  text-align: right;
+  font-size: 24px;
+}
+.treci_naslov {
+  text-align: center;
+  color: green;
+  font-family: "Comic Sans MS", sans-serif;
+}
+a {
+  color: orange;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: yellow;
+}
